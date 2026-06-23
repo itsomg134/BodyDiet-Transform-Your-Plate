@@ -2,7 +2,7 @@
 
 **BodyDiet** is a modern, responsive landing page designed for a diet and nutrition platform. It showcases personalized diet plans, healthy recipes, and a clean, inviting interface to help users start their wellness journey.
 
-![BodyDiet Preview](https://via.placeholder.com/1200x630/2b7a4b/ffffff?text=BodyDiet+Landing+Page)
+<img width="1890" height="2656" alt="image" src="https://github.com/user-attachments/assets/51dd7306-6364-4053-a71c-0efd6c4e7bfd" />
 
 ---
 
