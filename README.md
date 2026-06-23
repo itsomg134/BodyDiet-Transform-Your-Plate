@@ -99,13 +99,13 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - [Font Awesome](https://fontawesome.com) for icons.
 - Inspiration from modern health & wellness landing pages.
