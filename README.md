@@ -26,7 +26,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 body-diet-website/
