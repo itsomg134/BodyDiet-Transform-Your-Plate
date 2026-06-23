@@ -61,7 +61,7 @@ xdg-open index.html # Linux
 
 ---
 
-## 🎨 Customization Guide
+## Customization Guide
 
 ### Change the hero image
 Replace the emoji/FontAwesome placeholder in the `.hero-image` div with an `<img>` tag:
