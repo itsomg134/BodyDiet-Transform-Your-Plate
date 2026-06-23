@@ -79,7 +79,7 @@ Edit the `.recipe-item` blocks in the `.recipe-grid` section.
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 Deploy for free on:
 - **Netlify** – Drag and drop the folder.
