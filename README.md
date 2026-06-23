@@ -16,11 +16,6 @@
 - **FontAwesome Icons** – Rich visual language without heavy images.
 - **No External Dependencies** – Pure HTML & CSS (self-contained).
 
----
-
-## 🚀 Live Demo
-
-[View the live demo](https://your-demo-link.com) – *(replace with your deployed URL)*
 
 ---
 
