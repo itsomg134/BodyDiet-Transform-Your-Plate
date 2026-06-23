@@ -16,18 +16,9 @@
 - **FontAwesome Icons** – Rich visual language without heavy images.
 - **No External Dependencies** – Pure HTML & CSS (self-contained).
 
-
 ---
 
-## 📸 Screenshots
-
-| Hero Section | Diet Plans | Recipes |
-|--------------|------------|---------|
-| ![Hero](https://via.placeholder.com/400x250/2b7a4b/ffffff?text=Hero+Section) | ![Plans](https://via.placeholder.com/400x250/2b7a4b/ffffff?text=Diet+Plans) | ![Recipes](https://via.placeholder.com/400x250/2b7a4b/ffffff?text=Recipes) |
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **HTML5** – Semantic markup.
 - **CSS3** – Custom styles with flexbox/grid, no frameworks.
