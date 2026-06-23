@@ -1,5 +1,3 @@
-Here's a comprehensive GitHub README for your BodyDiet website project. It covers everything from setup to customization, making it easy for others to understand and contribute.
-```markdown
 # 🥗 BodyDiet – Transform Your Plate
 
 **BodyDiet** is a modern, responsive landing page designed for a diet and nutrition platform. It showcases personalized diet plans, healthy recipes, and a clean, inviting interface to help users start their wellness journey.
