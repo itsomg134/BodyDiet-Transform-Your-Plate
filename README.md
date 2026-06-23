@@ -1,4 +1,4 @@
-# 🥗 BodyDiet – Transform Your Plate
+# BodyDiet – Transform Your Plate
 
 **BodyDiet** is a modern, responsive landing page designed for a diet and nutrition platform. It showcases personalized diet plans, healthy recipes, and a clean, inviting interface to help users start their wellness journey.
 
@@ -6,7 +6,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - **Fully Responsive** – Looks great on desktop, tablet, and mobile.
 - **Clean & Organic Design** – Calming green palette with a focus on readability.
