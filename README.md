@@ -38,7 +38,7 @@ body-diet-website/
 
 ---
 
-## 🧩 Installation & Usage
+## Installation & Usage
 
 ### 1. Clone the repository
 ```bash
